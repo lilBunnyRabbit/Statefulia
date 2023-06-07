@@ -1,7 +1,7 @@
 {
   "name": "@lilbunnyrabbit/statefulia",
   "version": "0.0.0-alpha",
-  "description": "Template repository for creating `npm` packages.",
+  "description": "JavaScript/TypeScript library for state management.",
   "keywords": [
     "node",
     "npm",
